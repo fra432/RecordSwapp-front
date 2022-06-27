@@ -91,7 +91,7 @@ describe("Given a FormLogin component function", () => {
   });
 
   describe("When the user fills the name, username and password fields and clicks on the submit button", () => {
-    test("Then the dispatch should be invoked", () => {
+    test.only("Then the dispatch should be invoked", () => {
       const textInput = [
         "fra432",
         "fra432",
