@@ -46,3 +46,40 @@ This Form allow the user to add the record, or to edit an existing record by ins
 ## Logout
 
 Once the user is done with his session he can open the navbar and click on the Logout button which will redirect him to the Login page.
+
+<br/>
+
+## 👍 SonarCloud Quality Analysis:
+
+Here you can see the present testing coverage using Jest and other QA information on regards of the App, in Back and in Front:
+
+- [Sonar Cloud Frontend](https://sonarcloud.io/summary/overall?id=fra432_RecordSwapp-front)
+
+- [Sonar Cloud Backend](https://sonarcloud.io/summary/overall?id=fra432_RecordSwapp-back)
+
+<br/>
+
+## 🚀 Technologies
+
+- [React](https://reactjs.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+- [Redux](https://redux.js.org/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Styled Components](https://styled-components.com/)
+- [Firebase](https://firebase.google.com/)
+- [Netlify](https://www.netlify.com)
+- [ExpressJS](https://expressjs.com)
+- [NodeJS](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com)
+- [JOI](https://joi.dev)
+- [JWT](https://jwt.io)
+- [Sharp](https://sharp.pixelplumbing.com)
+- [Jest](https://jestjs.io)
+- [Cypress](https://www.cypress.io)
+
+## Links
+
+## ⏺️ [RecordSwapp](https://francesco-fabrissin-front-final-project-202204-bcn.netlify.app/)
+
+## ⌨️ [Back deploy Render](https://recordswapp-back.onrender.com)
